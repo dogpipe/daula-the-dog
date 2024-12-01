@@ -1,6 +1,11 @@
-.important {
-    color: green;
-  }
 .intro {
     color: purple;
+}
+img {
+    height: auto;
+    width: 250px;
+}
+.important {
+    color: green;
+    font-family: arial;
 }
