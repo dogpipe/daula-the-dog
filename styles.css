@@ -1,5 +1,6 @@
-.intro {
-    color: purple;
+.intro,
+.important {
+   font-family: Verdana;
 }
 img {
     height: auto;
@@ -7,5 +8,7 @@ img {
 }
 .important {
     color: green;
-    font-family: arial;
+}
+.intro {
+    color: purple;
 }
